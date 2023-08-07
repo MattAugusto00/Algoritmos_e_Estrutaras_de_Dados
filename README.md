@@ -16,3 +16,5 @@ Alguns dos meus códigos em C++, para as disciplinas de Algoritmos e Estruturas 
    - Heap
    - Arvore de Busca Binaria (ABB)
    - Arvore AVL
+
+![Arvore AVL]([URL_da_imagem](https://github.com/MattAugusto00/Algoritmos_e_Estrutaras_de_Dados/blob/main/%C3%81rvores%20AVL.JPG)https://github.com/MattAugusto00/Algoritmos_e_Estrutaras_de_Dados/blob/main/%C3%81rvores%20AVL.JPG)
