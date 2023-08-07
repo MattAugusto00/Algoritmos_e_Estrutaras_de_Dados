@@ -40,7 +40,7 @@ public:
 
     void pop() {
         if (isEmpty()) {
-            cout << "A pilha está vazia. Não é possível realizar pop()." << std::endl;
+            cout << "A pilha está vazia. Não é possível realizar pop()." << endl;
         } else {
             No<T>* temp = topo;
             topo = topo->next;
@@ -50,7 +50,7 @@ public:
 
     T peek() const {
         if (isEmpty()) {
-            cout << "A pilha está vazia. Não é possível realizar peek()." << std::endl;
+            cout << "A pilha está vazia. Não é possível realizar peek()." << endl;
             return T(); // Retornando um valor padrão (0 para tipos numéricos, vazio para strings, etc.)
         } else {
             return topo->data;
