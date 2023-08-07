@@ -8,3 +8,11 @@ Alguns dos meus códigos em C++, para as disciplinas de Algoritmos e Estruturas 
    - Quick Sort
    - Insertion Sort
    - Bubble Sort
+5. Estruturas de Dados
+   - Lista
+   - Pilha
+   - Fila
+   - Hash
+   - Heap
+   - Arvore de Busca Binaria (ABB)
+   - Arvore AVL
